@@ -1,0 +1,26 @@
+{
+    "apt" : [
+        "build-essential",
+        "git",
+        "python2",
+        "nmap",
+        "wget",
+        "dirb",
+        "whatweb",
+        "curl",
+        "terminator",
+        "exploitdb",
+        "cherrytree"
+    ],
+    "go" : {
+        "ffuf": "ffuf",
+        "OJ": "gobuster/v3"
+
+    },
+    "git" : [
+        "https://github.com/sullo/nikto.git",
+        "https://github.com/SecureAuthCorp/impacket.git",
+        "https://github.com/danielmiessler/SecLists.git",
+        "https://github.com/carlospolop/PEASS-ng.git"
+    ]
+}
